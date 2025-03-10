@@ -7,7 +7,7 @@ Summary(pl.UTF-8):	Obsługa subTest() i wyposażenie subtests dla szkieletu unit
 Name:		python3-pytest-subtests
 # note: 0.7+ require pytest 7
 Version:	0.6.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-subtests/
